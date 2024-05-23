@@ -7,10 +7,14 @@ Submit a repo by opening a github issue.
 ## Switch Emulator Modders that I link to
 
 - [StevensND](https://github.com/StevensND)
-
 - [Fl4sh](https://github.com/Fl4sh9174)
-
 - [KeatonTheBot](https://github.com/KeatonTheBot)
+- [theboy181](https://github.com/theboy181)
+- [lasyan3](https://github.com/lasyan3/yuzuMods)
+
+## Other Mirrors
+- [https://git.h3cjp.net/H3cJP/yuzu/wiki/Switch-Mods](https://git.h3cjp.net/H3cJP/yuzu/wiki/Switch-Mods)
+- [LexouilleTM/yuzu-mods-archive](https://github.com/LexouilleTM/yuzu-mods-archive)
 
 ## Cloning a Repository with Submodules
 

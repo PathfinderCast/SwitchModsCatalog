@@ -10,3 +10,9 @@
 [submodule "switch-pchtxt-mods"]
 	path = switch-pchtxt-mods
 	url = https://github.com/KeatonTheBot/switch-pchtxt-mods.git
+[submodule "switch-ptchtxt-mods-fix"]
+	path = switch-ptchtxt-mods-fix
+	url = https://github.com/PathfinderCast/switch-ptchtxt-mods-fix.git
+[submodule "yuzuMods"]
+	path = yuzuMods
+	url = https://github.com/lasyan3/yuzuMods.git
